@@ -1,4 +1,4 @@
-# /dev/disk2s1homeautomation
+# homeautomation
 raspberry pi, openHab,  Black Bean RM Mini 3 
 
 ### install raspberry pi
